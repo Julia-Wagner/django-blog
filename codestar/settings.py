@@ -33,7 +33,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['django-blog-julia-wagner-53a1c3c5074b.herokuapp.com',
                  'django-blog-julia-wagner.herokuapp.com/',
                  'localhost',
-                 '127.0.0.1:8000/']
+                 '127.0.0.1']
 
 
 # Application definition
